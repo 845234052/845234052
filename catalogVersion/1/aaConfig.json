@@ -6,10 +6,10 @@
                 "Assets/AddressableResource/server/type1/image1/cf_bingxiang.png"
             ],
             "version": 1,
-            "cVersion": 2,
+            "cVersion": 1,
             "noNeedUpdateVersion": 1,
             "noNeedUpdateCVersion": 0,
-            "size": 20
+            "size": 21
         },
         {
             "key": "Assets/AddressableResource/server/type2/image2",
@@ -17,7 +17,7 @@
                 "Assets/AddressableResource/server/type2/image2/cf_chugui.png"
             ],
             "version": 1,
-            "cVersion": 2,
+            "cVersion": 1,
             "noNeedUpdateVersion": 1,
             "noNeedUpdateCVersion": 1,
             "size": 20
@@ -29,10 +29,10 @@
                 "Assets/AddressableResource/server/type3/image3/cf_qianguizi.png"
             ],
             "version": 1,
-            "cVersion": 2,
+            "cVersion": 1,
             "noNeedUpdateVersion": 1,
-            "noNeedUpdateCVersion": 2,
-            "size": 30
+            "noNeedUpdateCVersion": 1,
+            "size": 34
         }
     ]
 }
